@@ -1,35 +1,31 @@
-# **Los Kits** {#kits}
+# Los Kits {#kits}
 
-Los kits en Project Reality definen tu clase, tu equipamiento y tu rol en el equipo. PR ofrece una gran variedad de kits entre los que elegir. De forma general, se puede decir que hay 3 tipos de kits en Project Reality:
+Los kits en Project Reality definen tu clase, tu equipamiento y tu rol en el equipo. PR ofrece una gran variedad de kits entre los que elegir. De forma general, se puede decir que hay 2 tipos de kits en Project Reality:
 
-* **Kits Estándard**, los cuales pueden seleccionarse directamente desde la pantalla de spawn
-* **Kits Especiales**, obtenibles sólamente desde vehículos o cajas de suministros (no disponible para insurgentes)
-* **Kits Especiales de Insurgentes**, sólo disponible en alijos de armas (cachés) de facciones insurgentes o no-convencionales
+* **Kits Estándar**, los cuales son los kits estándar de infantería y pueden seleccionarse directamente desde la pantalla de spawn
+* **Kits Especiales**, los cuales pertenecen a roles más especializados y sólo pueden obtenidos solicitándolos [cómo solicitarlos] (#solicitar-kits)
 
-El kit más genérico es el de **Fusilero (o Insurgente)**, del cual puede haber tantos como se quiera en la escuadra/equipo. Por otro lado, todos los demás kits vienen con clases especializadas asociadas y tienen restricciones respecto al número de ellos que se pueden tener en una misma escuadra o en el equipo en su totalidad. Debido a estas restricciones, para evitar perjudicar a la escuadra/equipo malusando un kit limitado, es recomendable empezar a jugar con un kit de **Fusilero**.
+## Dónde Empezar
 
-# **Kits Estándard** {#kits}
+Si eres nuevo, comienza uniéndote a una escuadra de infantería y eligiendo el kit de **Fusilero**. El Fusilero representa el soldado raso de infantería y puede ser usado sin restricciones por tantos jugadores como lo deseen en la escuadra/equipo. Todos los demás kits representan roles más especializados y sólo pueden ser usados simulatáneamente por un número limitado de jugadores en la escuadra/equipo.
 
-Los **Kits Estándard** son los 7 kits disponibles desde la pantalla de spawn y los kits que típicamente componen una escuadra de infantería. En la siguiente tabla se puede ver un resumen de los kits estándard que existen, así como información sobre cuántos kits de este tipo puede tener una misma escuadra y el tamaño mínimo de la misma para poder solicitarlos.
+Debido a estas restricciones, y para evitar perjudicar a tu equipo malusando o desaprovechando esos kits limitados, **se recomienda encarecidamente comenzar a jugar de Fusilero**. Una vez vayas ganando más experiencia en el juego y aprendas lo básico del gameplay de infantería, si te sientes preparado, puedes pedirle a tu Jefe de Escuadra que te asigne un rol diferente. En cualquier caso, **SIEMPRE pide permiso a tu Jefe de Escuadra antes de the cambiar de kit**.
+
+# Kits Estándar {#kits}
+
+Los **Kits Estándar** son los 7 kits disponibles desde la pantalla de spawn y los kits que típicamente componen una escuadra de infantería. En la siguiente tabla se puede ver un resumen de los kits estándar que existen, así como información sobre cuántos kits de este tipo puede tener una misma escuadra y el tamaño mínimo de la misma para poder solicitarlos.
 
 | Kit | Límitación | Tamaño Mínimo | 
 | --- | --- | --- |
 | **Oficial** | 1/Escuadra | 2 |
 | **Fusilero** | Sin Límite | 1 |
-| **Médico de Combate** | 2/Escuadra | 2 |
+| **Médico** | 2/Escuadra | 2 |
 | **Fusilero de Apoyo** | 1/Escuadra | 3 |
 | **Fusilero Breacher** | 1/Escuadra | 3 |
 | **Fusilero Granadero** | 1/Escuadra | 6 | 
 | **Fusilero Anti-Tanque** | 1/Escuadra | 6 |
 
-Cabe mencionar que, además de las limitaciones por escuadra, los kits de **Fusilero Granadero y Fusilero Anti-Tanque** también están restringidos a un número máximo por equipo dependiendo del número de jugadores en el mismo:
-
-| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
-| --- | --- | --- | --- | --- | --- |
-| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
-| **Granadero** | 1 | 2 | 3 | 3 | 4 |
-
-Teniendo en cuenta estas limitaciones, se puede decir que una escuadra típica de infantería de 8 miembros tendrá esta composición:
+Teniendo en cuenta estas limitaciones, se puede decir que una escuadra típica de infantería de 8 miembros tiene normalmente esta composición:
 
 | # | Kit |
 |---|---|
@@ -41,13 +37,22 @@ Teniendo en cuenta estas limitaciones, se puede decir que una escuadra típica d
 | 1x | Granadero |
 | 1x | Anti-Tanque |
 
-**DESCRIPCIÓN DE LOS KITS ESTÁNDARD**
+Nota así mismo que, en el menú de spawn, cada kit viene con dos botones: **"Estándar"** y **"Alternativo"**. Esto es porque de cada kit existen dos variantes. Normalmente **éstas variaciones afectan principalmente al tipo de óptica que traen las armas** (telescópica, réflex o ninguna), aunque en algunos casos, las variaciones estándar y alternativa directamente vienen equipadas con un arma diferente.
+
+Cabe mencionar además que, por motivos de jugabilidad, los kits de **Granadero** y **Fusilero Anti-Tanque** también están restringidos a un número máximo por equipo, dependiendo del número de jugadores en el mismo:
+
+| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
+| --- | --- | --- | --- | --- | --- |
+| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
+| **Granadero** | 1 | 2 | 4 | 5 | 8 |
+
+### DESCRIPCIÓN DE LOS KITS ESTÁNDAR
 
 * ![](assets/rifleman.png)**Fusilero**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, granadas de fragmentación y humo. Al no tener una función especializada en la escuadra, el fusilero es ideal para posiciones y maniobras agresivas. Es además el único kit que puede suministrar munición al resto de compañeros.
 
-* ![](/assets/officer.png)**Oficial**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de combate, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto de oficiales del equipo, poner marcadores en el mapa, construir emplazamientos estratégicos y pedir misiones de apoyo (artillería, morteros, blindados, ataque aéreo, etc). En la sección **Jefe de Escuadra** de este manual se cubre en más detalle este vital rol.
+* ![](/assets/officer.png)**Oficial**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de combate, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse por voz con el resto de oficiales del equipo, poner marcadores en el mapa, construir emplazamientos estratégicos y pedir misiones de apoyo (artillería, morteros, blindados, ataque aéreo, etc). En la sección [**Jefe de Escuadra**] (../the_squad_leader/README.md#the_squad_leader) de este manual se cubre en más detalle este vital rol.
 
-* ![](/assets/medic.png)**Médico de Combate**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica en el campo de batalla, y por tanto, uno de los roles que más afecta al rendimiento de la escuadra. Un instinto de supervivencia superior es crítico para este kit. Además de un fusil de asalto, viene equipado con varias granadas de humo, un kit de primeros auxilios y varios rollos de vendas
+* ![](/assets/medic.png)**Médico**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica en el campo de batalla, y por tanto, uno de los roles que más afecta al rendimiento de la escuadra. Un instinto de supervivencia superior es crítico para este kit. Además de un fusil de asalto, viene equipado con varias granadas de humo, un kit de primeros auxilios y varios rollos de vendas
 
 * ![](/assets/ar.png)**Apoyo \(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática ligera, el Apoyo (o AR), es un fusilero algo menos móvil y versátil (no tiene granadas), pero capaz de una mayor potencia de fuego. Su especialidad es el fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su habilidad de fuego efectivo en combate.
 
