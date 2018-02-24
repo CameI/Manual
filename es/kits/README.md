@@ -23,7 +23,7 @@ Los **Kits Estándar** son los 7 kits disponibles desde la pantalla de spawn y l
 | **Fusilero de Apoyo** | 1/Escuadra | 3 |
 | **Fusilero Breacher** | 1/Escuadra | 3 |
 | **Fusilero Granadero** | 1/Escuadra | 6 | 
-| **Fusilero Anti-Tanque** | 1/Escuadra | 6 |
+| **Fusilero Anti-Tanque** | 1/Escuadra | 4 |
 
 Teniendo en cuenta estas limitaciones, se puede decir que una escuadra típica de infantería de 8 miembros tiene normalmente esta composición:
 
@@ -176,9 +176,3 @@ Hay situaciones en las que querrás soltar tu kit. Por ejemplo, para que alguien
 3. Acto seguido, **pulsa la tecla G** y tu kit caerá al suelo.
 
 Es posible cambiar de clase simplemente recogiendo del suelo un kit de tu equipo. Y, aunque también es posible coger y usar un kit enemigo, esta acción está limitada a un máximo de 30 segundos (por ejemplo, para recoger munición o usar sus vendas, etc), pero pasado ese tiempo, si no sueltas el kit del enemigo, pasarás a estar muerto.
-
-
-
-
-
-
