@@ -54,19 +54,19 @@ Cabe mencionar además que, por motivos de jugabilidad, los kits de **Granadero*
 
 * ![](/assets/medic.png)**Médico**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica en el campo de batalla, y por tanto, uno de los roles que más afecta al rendimiento de la escuadra. Un instinto de supervivencia superior es crítico para este kit. Además de un fusil de asalto, viene equipado con varias granadas de humo, un kit de primeros auxilios y varios rollos de vendas
 
-* ![](/assets/ar.png)**Apoyo \(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática ligera, el Apoyo (o AR), es un fusilero algo menos móvil y versátil (no tiene granadas), pero capaz de una mayor potencia de fuego. Su especialidad es el fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su habilidad de fuego efectivo en combate.
+* ![](/assets/ar.png)**Apoyo \(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática ligera, el AR (del inglés, Automatic Rifleman), es un fusilero algo menos móvil y versátil (no tiene granadas), pero capaz de una mayor potencia de fuego. Su especialidad es un altamente preciso y letal fuego de supresión, el cual es también muy útil para restringir la capacidad de movimiento del enemigo.
 
 * ![](/assets/breacher.png)**Breacher**. Limitado a 1 por escuadra. Actúa normalmente como punta de lanza y especialista en asalto de edificios y en demoliciones. Su equipamiento incluye fusil de asalto, cuerda con garfio para escalar obstáculos, una escopeta recortada y varias cargas de explosivos (C4) para demoliciones.
 
-* ![](/assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadra y a **8 por equipo**. Es un fusilero equipado con un fusil de asalto y un sistema portátil anti-vehículos. Su rol principal es actuar como elemento ultra-ligero con capacidad de neutralizar vehículos ligeros o de reducido blindaje. **No es efectivo contra blindados pesados.**
+* ![](/assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadra y a **8 por equipo**. El LAT (del inglés, Light Anti-Tank) es un fusilero equipado con un fusil de asalto y un sistema portátil anti-vehículos. Su rol principal es actuar como elemento ultra-ligero con capacidad de neutralizar vehículos ligeros o de reducido blindaje. **No es efectivo contra blindados pesados.**
 
-* ![](/assets/grenadier.png)**Granadero**. Limitado a 1 por escuadra y a **4 por equipo**. Normalmente equipado con un lanzagranadas acoplado a su fusil de asalto. Su función principal es hostigar concentraciones de enemigos o vehículos ligeros no blindados. Especialmente últil para enfrentamientos a grandes distancias o para atosigar enemigos en el interior de edificios.
+* ![](/assets/grenadier.png)**Granadero**. Limitado a 1 por escuadra y a **8 por equipo**. Normalmente equipado con un lanzagranadas acoplado a su fusil de asalto. Su función principal es atacar zonas de baja visibilidad (humo, o vegetación) con posible presencia enemgia y hostigar vehículos ligeros no blindados. Especialmente últil para enfrentamientos a grandes distancias o para atosigar enemigos en el interior de edificios.
 
 ## _Kits Especiales_ {#kits-especiales}
 
-Además de los Kits Estándard ya descritos, en PR existe una amplia selección de **Kits Especiales** que cumplen roles altamente especializados. Algunos ejemplos de Kits Especiales son el Anti-Tanque Pesado, el Zapador, el Observador, el Tirador Designado (o Marksman), el Francotirador o el Fusilero Anti-Aéreo, entre otros. No es posible spawnearse directamente con estos kits especializados, sino que para conseguirlos se habrán de solicitar desde cajas de suministros o vehículos aliados. Además, dependiendo del número de jugadores que haya en el equipo, cada uno de estos kits estará limitado a un cierto número de ellos. 
+Además de los Kits Estándard ya descritos, en PR existe una amplia selección de **Kits Especiales** que cumplen roles altamente especializados. Algunos ejemplos de Kits Especiales son el Anti-Tanque Pesado, el Zapador, el Observador, el Tirador Designado (o Marksman), el Francotirador o el Fusilero Anti-Aéreo, entre otros. 
 
-En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes **Kits Especiales**:
+No es posible spawnearse directamente con uno de estos kits altamente restringidos y especializados. Para conseguirlos, hay que solicitarlos estando junto a un vehículo o caja de suministros aliado siguiendo un procedimiento descrito [más abajo](#kit-request). Además, dependiendo del número de jugadores en el equipo, cada uno de **estos kits están limitados a un número determinado de ellos por equipo**. En la siguiente tabla, estas restricciones quedan resumidos:
 
 | Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
 | --- | --- | --- | --- | --- | --- |
@@ -78,11 +78,10 @@ En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes *
 | **Fusilero Anti-Aéreo** | 0 | 1 | 1 | 2 | 2 |
 | **Francotirador** | 0 | 1 | 1 | 2 | 2 |
 | **Anti-Tanque Pesado** | 0 | 1 | 1 | 1 | 1 |
-| **Civil** | 1 | 3 | 9 | 12 | 16 |
 
-Debido a la naturaleza altamente restringida de estos kits, se desaconseja **encarecidamente** que jugadores sin mucha experiencia los usen, ya que se corre el riesgo de desaprovecharlos, perderlos y poner al equipo en una notable desventaja al dejarlo sin posibilidad de usar estos kits vitales.
+Debido a la naturaleza altamente restringida de estos kits, se **desaconseja encarecidamente** que jugadores sin mucha experiencia los usen. Esto es porque se corre el riesgo de desaprovecharlos, perderlos y poner al equipo en una notable desventaja al dejarlo sin posibilidad de usar estos kits vitales. **Recuerda SIEMPRE pedir permiso a tu Jefe de Escuadra antes de usar uno de estos kits.**
 
-**DESCRIPCIÓN DE LOS KITS ESPECIALES**.
+### DESCRIPCIÓN DE LOS KITS ESPECIALES
 
 * ![](/assets/mlg.png)**Ametrallador Pesado \(MG\)**. Es una versión más pesada y engorrosa del Ametrallador Ligero (o AR), aunque gracias a su potencia de fuego superior, es capaz de mantener una escuadra entera suprimida, siendo además letal en las distancias largas.
 
@@ -99,8 +98,6 @@ Debido a la naturaleza altamente restringida de estos kits, se desaconseja **enc
 * ![](/assets/sniper.png)**Francotirador**. Su función principal son las misiones de reconocimiento: pasar desapercibido y recabar información de alto valor estratégico, como por ejemplo la posición de bases enemigas o de blindados. Equipado con un fusil de precisión, es también capaz de atacar objetivos de alto valor desde largas distancias. Nota, no obstante, que el típico jugador novato se definirá como tal eligiendo este kit. No seas uno de ellos.
 
 * ![](/assets/hay.png)**Anti-Tanque Pesado \(HAT\)**. Especialista en el combate contra blindados y muy capaz en las largas distancias. Es una amenza real y efectiva contra cualquier tipo de blindado, incluyendo tanques. La alta limitación de este kit (1 por equipo), y la volátil naturaleza de la lucha anti-tanque, hacen de este kit una clase totalmente crítica. Perder este kit puede cambiar la balanza de un combate. Por ello, se desaconseja **enfáticamente** su uso por jugadores sin la experiencia necesaria.
-
-* ![](/assets/civiicon.png)**Civil**. Es una clase especial de las facciones insurgentes iraquíes y de Hamas. Su rol principal es asistir a la insurgencia como observador. Al ser una clase no militar y desarmada, existen varias reglas especiales sobre ellos que se detallan en el capítulo correspondiente [(ver Civiles)](../the_civilian/README.md)
 
 ## _Otros Kits_ {#kits-other}
 
